@@ -14,7 +14,7 @@
 
 STORIES è un'app **adattiva** che sostiene gli **anziani** e le loro **famiglie**
 rafforzando **memoria**, **connessione emotiva** e **benessere quotidiano**, tramite
-**conversazioni ingaggianti** tra l'anziano e un **amico virtuale** basato su AII, alimentate da una **memoria affettiva** costruita dai contenuti condivisi dalla famiglia.
+**conversazioni ingaggianti** tra l'anziano e un **amico virtuale** basato su AI, alimentate da una **memoria affettiva** costruita dai contenuti condivisi dalla famiglia.
 
 ---
 
@@ -103,7 +103,7 @@ erDiagram
   contenuti e (per il caregiver) monitorano e impostano reminder.
 - **Conversazione** — sessione di dialogo anziano ↔ amico virtuale, **privata**.
   Composta da **Turni** (messaggi). Non condivisa integralmente con la famiglia.
-- **Turno** — singolo scambio (input anziano trascritto / risposta AII). L'audio non è persistito.
+- **Turno** — singolo scambio (input anziano trascritto / risposta AI). L'audio non è persistito.
 - **Sunto per topic** — riassunto strutturato prodotto a fine conversazione,
   filtrato dai guardrail; **visibile alla famiglia**.
 - **Ricordo (MemoryItem)** — unità della memoria affettiva; testo o immagine;
